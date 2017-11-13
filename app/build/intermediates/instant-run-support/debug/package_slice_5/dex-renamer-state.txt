@@ -1,0 +1,4 @@
+#Fri Nov 10 18:37:46 MSK 2017
+base.0=/Users/lordcoudy/Downloads/SpaceArraysOOP-master/app/build/intermediates/transforms/dexMerger/debug/5
+renamed.0=classes.dex
+file.0=/Users/lordcoudy/Downloads/SpaceArraysOOP-master/app/build/intermediates/transforms/dexMerger/debug/5/classes.dex
